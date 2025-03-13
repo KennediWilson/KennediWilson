@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kennedi! <br/><a href="https://github.com/joshmadakor1">Computer Science Student</a> <a href="https://www.linkedin.com/in/joshmadakor/"> at Whatcom Community College </a> 
+<h1>Hi, I'm Kennedi! <br/><a href="https://www.linkedin.com/in/kennedi-wilson-a47b30355/">Computer Science Student</a> <a href="https://www.linkedin.com/in/kennedi-wilson-a47b30355/"> at Whatcom Community College </a> 
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b> Towers of Hanoi</b>
