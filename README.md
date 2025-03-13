@@ -11,6 +11,3 @@
   - https://github.com/KennediWilson/Polymorphism
 - <b> Sorting programs</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
-<h2> 🤳 Connect with me:</h2>
-
-<!--
