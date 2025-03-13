@@ -4,14 +4,13 @@
 - <b> Towers of Hanoi</b>
 - <b> https://github.com/KennediWilson/TowersofHanoi </b>
 - <b> Black Jack Game</b>
-  - https://github.com/KennediWilson/Cardgame-Blackjack <b><i>(Potentially NSFW)</b></i>
+  - https://github.com/KennediWilson/Cardgame-Blackjack <b></b></i>
 - <b>Phonebook program</b>
   - https://github.com/KennediWilson/Phonebook
 - <b> Polymorphism </b>
   - https://github.com/KennediWilson/Polymorphism
 - <b> Sorting programs</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]
 <h2> 🤳 Connect with me:</h2>
 
 <!--
