@@ -2,7 +2,7 @@
 <h2>👨‍💻 Computer Science Projects:</h2>
 
 - <b> Towers of Hanoi</b>
-- <b> https://github.com/KennediWilson/TowersofHanoi </b>
+  - https://github.com/KennediWilson/TowersofHanoi 
 - <b> Black Jack Game</b>
   - https://github.com/KennediWilson/Cardgame-Blackjack <b></b></i>
 - <b>Phonebook program</b>
