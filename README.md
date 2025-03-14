@@ -10,7 +10,7 @@
 - <b> Polymorphism </b>
   - https://github.com/KennediWilson/Polymorphism
 - <b> Sorting Programs</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - 
 
  <h2> My Resume :</h2>
 - <b>https://github.com/KennediWilson/Resume </b>
