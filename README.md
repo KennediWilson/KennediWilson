@@ -5,11 +5,11 @@
   - https://github.com/KennediWilson/TowersofHanoi 
 - <b> Black Jack Game</b>
   - https://github.com/KennediWilson/Cardgame-Blackjack <b></b></i>
-- <b>Phonebook program</b>
+- <b>Phonebook Program</b>
   - https://github.com/KennediWilson/Phonebook
 - <b> Polymorphism </b>
   - https://github.com/KennediWilson/Polymorphism
-- <b> Sorting programs</b>
+- <b> Sorting Programs</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
  <h2> My Resume :</h2>
