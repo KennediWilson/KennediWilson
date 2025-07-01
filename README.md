@@ -13,5 +13,4 @@
   - https://github.com/KennediWilson/Polymorphism
 
 
- <h2> My Resume :</h2>
-- <b>https://github.com/KennediWilson/Resume </b>
+ 
