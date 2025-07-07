@@ -22,7 +22,8 @@
    - https://github.com/KennediWilson/Binary-Search-Tree
 - <b> Mad Lib Generator📓 </b>
     - https://github.com/KennediWilson/Mad-Lib-Generator
-   
+
+<h2> Python Projects✨:</h2>
 
 
  
