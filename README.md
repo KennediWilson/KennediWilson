@@ -24,6 +24,8 @@
     - https://github.com/KennediWilson/Mad-Lib-Generator
 
 <h2> Python Projects✨:</h2>
-
+   
+- <b> Simple Calendar </b>
+  - https://github.com/KennediWilson/Simple-Calendar-
 
  
